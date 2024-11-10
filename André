@@ -1,0 +1,91 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Pessoal de André Yuri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 1rem;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2rem 0;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Página Pessoal de André Yuri</h1>
+    </header>
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#hobbies">Hobbies</a>
+        <a href="#blog">Blog</a>
+        <a href="#contato">Contato</a>
+    </nav>
+    <div class="container">
+        <section id="sobre">
+            <h2>Sobre Mim</h2>
+            <p>Meu nome é André Yuri Wakapupa João. Tenho 16 anos e moro em Xangongo, no bairro Torantã. Sou estudante da décima classe na formação de professores da ADPP de Onjiva e tenho grande interesse em aprender inglês e filosofia.</p>
+        </section>
+        
+        <section id="hobbies">
+            <h2>Meus Hobbies</h2>
+            <ul>
+                <li>Jogar bola</li>
+                <li>Ler sobre filosofia, especialmente sobre Pitágoras de Samos</li>
+                <li>Explorar novas línguas e culturas</li>
+            </ul>
+        </section>
+
+        <section id="blog">
+            <h2>Blog</h2>
+            <article>
+                <h3>Primeiro Post: A Importância de Aprender Filosofia</h3>
+                <p>A filosofia não é apenas uma matéria escolar, mas uma maneira de entender o mundo e questionar a existência. Pitágoras de Samos, por exemplo, trouxe contribuições que vão além dos números, envolvendo a harmonia e o equilíbrio do universo.</p>
+        n
+
+</article>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Você pode entrar em contato comigo pelo e-mail: <strong>andre.yuri@exemplo.com</strong></p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 André Yuri. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>￼Enter
